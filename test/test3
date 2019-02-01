@@ -1,1 +1,2 @@
-# bash
+#!/bin/bash
+stat --format='%a %U:%G %n'
